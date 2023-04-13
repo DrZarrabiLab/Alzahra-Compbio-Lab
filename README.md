@@ -1,4 +1,3 @@
-![Uploading Alzahra.jpg…]()
 # Alzahra-CompBio_Lab
 Welcome to the Computational Biology Lab at Alzahra University! Our lab, led by Dr. Mahboobeh Zarrabi, is focused on using computational methods to study biological systems, with a particular emphasis on cancer and antibiotic resistance research.
 
@@ -20,3 +19,4 @@ We are committed to advancing the field of computational biology and collaborati
 * **PeptiPy**: Virtual screening of peptide-based therapeutics
 * **ProtiPharm**: A machne learning-based approach for predicting protein druggability
 * **BiofilmMech**: A Computational Fluid Dynamics Approach for Predicting and Modeling the Mechanical Behavior of Bacterial Biofilm.
+
