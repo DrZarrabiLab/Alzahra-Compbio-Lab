@@ -18,5 +18,8 @@ We are committed to advancing the field of computational biology and collaborati
 * **BiofilmDyna**: This library contains bacterial membrane models for both planktonic and biofilm states, taking into account the age of the biofilm to determine its composition based on laboratory results. Plankt, BF1, BF2, and BF6 refer to the planktonic state, 24-hour, 48-hour, and 6-day biofilm, respectively.
 * **PeptiPy**: Virtual screening of peptide-based therapeutics
 * **ProtiPharm**: A machne learning-based approach for predicting protein druggability
-* **BiofilmMech**: A Computational Fluid Dynamics Approach for Predicting and Modeling the Mechanical Behavior of Bacterial Biofilm.
-* **Email: combio-lab@alzahra.ac.ir
+* **BiofilmMech**: A Computational Fluid Dynamics Approach for Predicting and Modeling the Mechanical Behavior of Bacterial Biofilm
+
+
+**Contact us**:
+* **Email: combio-lab@alzahra.ac.ir**
