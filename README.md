@@ -19,4 +19,4 @@ We are committed to advancing the field of computational biology and collaborati
 * **PeptiPy**: Virtual screening of peptide-based therapeutics
 * **ProtiPharm**: A machne learning-based approach for predicting protein druggability
 * **BiofilmMech**: A Computational Fluid Dynamics Approach for Predicting and Modeling the Mechanical Behavior of Bacterial Biofilm.
-
+* **Email: combio-lab@alzahra.ac.ir
